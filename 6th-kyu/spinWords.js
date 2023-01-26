@@ -1,4 +1,4 @@
-// take a string and find the letters with five or more letters and reverse those words and then return the original string with the reversed words
+// take a string and reverse words with five or more letters and return string
 // string with multiple words and spaces
 // r string 
 // e spinWords('hello my name is Niall') > 'olleh my name is llaiN'
