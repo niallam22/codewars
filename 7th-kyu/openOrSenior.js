@@ -4,4 +4,5 @@ function openOrSenior(data){
     });
     console.log(res);
     return res;
+    
   }
